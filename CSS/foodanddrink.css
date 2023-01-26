@@ -1,0 +1,123 @@
+body{
+    background-image: url("../Images/Picture20.png");
+    background-size: cover;
+}
+h1{
+    color: white;
+    font-family: Berlin Sans FB;
+    text-align: center;
+    padding: 45px 0 0 0;
+    text-shadow: 0 0 20px white;
+    font-size: 34px;
+}
+ul{
+    text-align: center;
+    padding: 10px 0 0 0;
+}
+li{
+    display: inline;
+    padding-right: 30px;
+    padding-left: 30px;
+    color: white;
+    font-family: Arial Rounded MT;
+    font-size: 22px;
+}
+a{
+    color: white;
+}
+.header-1-c{
+    position: fixed;
+    top: 1;
+    left: 0;
+}
+.header-2-c{
+    position: fixed;
+    top: 1;
+    right: 1;
+    padding: 20px 10px 0 0;
+}
+.footer-1-c{
+    position: fixed;
+    bottom: 0;
+    left: 1;
+    text-align: center;
+}
+.footer-2-c{
+    position: fixed;
+    bottom: 0;
+    right: 1;
+    text-align: center;
+}
+.fooddrink1{
+    text-align: center;
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 50px;
+}
+.fooddrink2{
+    text-align: center;
+    font-family: Arial Rounded MT;
+    color: white;
+    display: flex;
+    justify-content: space-evenly;
+    margin: 0 75px 0 65px;
+}
+.McDonalds{
+    max-width: 350px;
+}
+.TimHortons{
+    max-width: 350px;
+}
+.Bombay{
+    max-width: 350px;
+}
+.fooddrink4{
+    text-align: center;
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 20px;
+}
+.fooddrink5{
+    text-align: center;
+    font-family: Arial Rounded MT;
+    color: white;
+    display: flex;
+    justify-content: space-evenly;
+    margin: 0 75px 0 65px;
+}
+.KFC{
+    max-width: 350px;
+}
+.Trappd{
+    max-width: 350px;
+}
+.Casino{
+    max-width: 350px;
+}
+button{
+    background-color: #0078D7;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    font-size: 16px;
+    font-weight: 600;
+    box-shadow: 0px 4px 4px rgba(0,0,0,0.25);
+    transition: all 0.2s ease-in-out;
+}
+button:hover{
+    cursor: pointer;
+    background-color: #005a9e;
+    box-shadow: 0px 8px 8px rgba(0,0,0,0.25);
+    transform: translateY(-4px);
+}
+.fooddrink3{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 10px;
+}.fooddrink6{
+   display: flex;
+   justify-content: space-evenly;
+   margin-top: 10px;
+   margin-bottom: 20px;
+}

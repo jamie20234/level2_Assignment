@@ -1,0 +1,71 @@
+body{
+    background-image: url("../Images/Picture1.png");
+    background-size: cover;
+}
+h1{
+    color: white;
+    font-family: Berlin Sans FB;
+    text-align: center;
+    padding: 45px 0 0 0;
+    text-shadow: 0 0 20px white;
+    font-size: 34px;
+}
+.header-1{
+    position: fixed;
+    top: 11;
+    left: 0;
+}
+.header-2{
+    position: fixed;
+    top: 1;
+    right: 1;
+    padding: 20px 10px 0 0;
+}
+ul{
+    text-align: center;
+}
+li{
+    display: inline;
+    padding-right: 28px;
+    padding-left: 28px;
+    color: white;
+    font-family: Arial Rounded MT;
+    font-size: 22px;
+}
+h2{
+    color: white;
+    font-family: Cascadia Code;
+    font-size: 35px;
+    text-align: center;
+    padding: 90px 0 0 0;
+}
+.text-1{
+    color: white;
+    font-family: Cascadia Code;
+    font-size: 25px;
+    text-align: center;
+    margin: 0 250px 0 250px;
+}
+.text-2{
+    color: white;
+    font-family: Cascadia Code;
+    font-size: 25px;
+    text-align: center;
+    margin: 0 350px 0 350px;
+    padding: 50px 0 0 0;
+}
+.footer-1{
+    position: fixed;
+    bottom: 0;
+    left: 1;
+    text-align: center;
+}
+.footer-2{
+    position: fixed;
+    bottom: 0;
+    right: 1;
+    text-align: center;
+}
+a{
+    color: white;
+}
